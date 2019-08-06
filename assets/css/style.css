@@ -15,8 +15,10 @@ label {
 }
 
 body {
-    background-image: url("pork.jpg");
+    background-image: url("assets/images/pork.jpg");
     background-color: purple;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .holder {
