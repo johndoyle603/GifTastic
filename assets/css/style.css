@@ -1,0 +1,28 @@
+button,
+div,
+form,
+input {
+    margin: 5px;
+}
+
+label {
+    color: grey;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+body {
+    background-image: url("pork.jpg");
+    background-color: purple;
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+}
